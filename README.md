@@ -1,6 +1,6 @@
 # Weather Companion
 
-**Product demo:** `[https://github.com/user-attachments/assets/5a99c50e-2868-4adb-8e85-bb75e6d6ce18]`
+**Product demo:** `[https://github.com/user-attachments/assets/d157871a-6198-413e-8d8c-97a92502819d]`
 
 **Download the apk using the link:** `[https://drive.google.com/file/d/1DQUhqzcczpnKlgtkEXMitDdM9LwEvxn4/view?usp=sharing]`
 
