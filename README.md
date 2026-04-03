@@ -1,8 +1,8 @@
 # Weather Companion
 
-**Product demo:** `[https://github.com/user-attachments/assets/d157871a-6198-413e-8d8c-97a92502819d]`
+**Product demo:** [https://github.com/user-attachments/assets/d157871a-6198-413e-8d8c-97a92502819d]
 
-**Download the apk using the link:** `[https://drive.google.com/file/d/1DQUhqzcczpnKlgtkEXMitDdM9LwEvxn4/view?usp=sharing]`
+**Download the apk using the link:** [https://drive.google.com/file/d/1DQUhqzcczpnKlgtkEXMitDdM9LwEvxn4/view?usp=sharing]
 
 ### OpenWeatherMap API Key Setup
 
