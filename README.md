@@ -1,6 +1,6 @@
 # Weather Companion
 
-**Product demo:** `[Insert link here]`
+**Product demo:** `[https://drive.google.com/file/d/1DQUhqzcczpnKlgtkEXMitDdM9LwEvxn4/view?usp=sharing]`
 
 **Download the apk using the link:** `[Insert link here]`
 
